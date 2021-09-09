@@ -1,0 +1,15 @@
+{
+    "mail_settings": {
+        "mail_host": "localhost",
+        "mail_port": "25",
+        "mail_from": "",
+        "mail_to": "",
+        "mail_cc": "",
+        "mail_user": "",
+        "mail_password": "",
+        "name": ""
+    },
+    "excel_settings": {
+        "file_path": ""
+    }
+}

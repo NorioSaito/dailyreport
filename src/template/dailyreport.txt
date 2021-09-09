@@ -1,0 +1,17 @@
+お疲れ様です。$nameです。
+本日の日報を送付いたします。
+
+<勤務日>
+$work_day $work_start_time ~ $work_end_time (休憩：$breakout_time)
+
+<業務内容>
+$detail
+<翌営業日の予定>
+$next_day_plan
+<問題点>
+$problems
+<解決方法>
+$solution
+<その他>
+$others
+以上、よろしくお願いいたします。
